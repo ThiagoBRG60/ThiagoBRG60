@@ -1,5 +1,6 @@
 <h1 align="center">
-   👋 Olá, eu sou o <span style="color: #915eff;">Thiago</span>
+   👋 Olá, eu sou o
+      <span style="color: #915eff;">Thiago</span>
 </h1>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 - 💻 Desenvolvedor Front-end, no caminho para me tornar Full Stack.
 - 🌱 Atualmente estou aprendendo TypeScript.
-- ⚡ No meu tempo livre, gosto de ouvir música e jogar um pouco também.
+- ⚡ No meu tempo livre, gosto de ouvir música e jogar alguns jogos.
 - 🚀 Buscando evoluir a cada dia, sempre aprimorando minhas habilidades.
 
 <h2 style="display: flex; align-items: center; gap: 10px">
