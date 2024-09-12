@@ -36,10 +36,9 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
    <img alt="react" src="https://skillicons.dev/icons?i=react"/>
    <img alt="next" src="https://skillicons.dev/icons?i=next"/>
    <img alt="redux" src="https://skillicons.dev/icons?i=redux"/>
-   <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
-      <rect width="50" height="50" rx="10" fill="#000"/>
-      <image href="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" x="5" y="5" width="40" height="40"/>
-   </svg>
+   <span style="width: 50px; height: 50px">
+      <img width="50px" height="50px" alt="zustand" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"/>
+   </span>
    <img alt="styled components" src="https://skillicons.dev/icons?i=styledcomponents"/>
    <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind"/>
    <img alt="sass" src="https://skillicons.dev/icons?i=sass"/>
@@ -57,11 +56,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
    <a href="https://www.linkedin.com/in/thiagocorrea20/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://thiagocorrea.vercel.app">
-      <svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 200 40">
-         <rect width="200" height="40" fill="#915eff"/>
-         <text x="50" y="25" font-size="18" font-weight="500" fill="white">Meu Portfólio</text>
-         <image href="https://img.icons8.com/?size=100&id=89777&format=png&color=FFFFFF" x="10" y="5" width="30" height="30"/>
-      </svg>
+    <a href="https://thiagocorrea.vercel.app/">
+      <img width="150px" src="https://img.shields.io/badge/Meu_Portfolio-915eff?style=for-the-badge&logo=googlechrome&logoColor=fff&link=https://thiagocorrea.vercel.app/"/>
    </a>
 </div>
