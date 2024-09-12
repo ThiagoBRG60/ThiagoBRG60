@@ -57,6 +57,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
     <a href="https://thiagocorrea.vercel.app/">
-      <img width="150px" src="https://img.shields.io/badge/Meu_Portfolio-915eff?style=for-the-badge&logo=googlechrome&logoColor=fff&link=https://thiagocorrea.vercel.app/"/>
+      <img width="150px" src="https://img.shields.io/badge/Meu_Portfólio-915eff?style=for-the-badge&logo=googlechrome&logoColor=fff&link=https://thiagocorrea.vercel.app/"/>
    </a>
 </div>
